@@ -81,7 +81,7 @@ The following image shows the application's IndexedDB storage:
 
 ## Deployment:
 
-- Heroku
+- PWA (Progressive Web App)
 
 
 ## References:
